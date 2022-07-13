@@ -49,3 +49,5 @@ If you still have questions, concerts, then feel free to write to the administra
 
 - Azura is not responsible for banning / Ip Ban, your account at https://roblox.com/, you do it at your own risk.
 - The probability of being banned at https://roblox.com/ using Azura is 0%.
+
+![alt text](https://cdn.discordapp.com/attachments/995559142133616700/996859540056326184/Open-removebg-preview.png)

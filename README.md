@@ -1,28 +1,50 @@
 # Azura's Terms of Service!
-We can and will update our Terms of Service. We have no obligation to inform you of any changes to our Terms of Service or any other legal document. Here are our Rules that you must follow in order to use our Service, if you do not follow them, your account will be deleted and you will be also banned from discord server.
-# Discord Rules
-1. use common sense.
-2. Discord TOS!
-3. be courteous to the staff.
-4. Do not open a Ticket to any question related to the app unless it is a valid question. Do not ask these questions in the chat room.
+We can and will update our Terms of Service. Caution. We are under no obligation to inform you of any changes to our Terms of Service or any other legal document. Below, these are our T&Cs that you must follow in order to use our Service and service, if you don't follow them, your account will be deleted and you will also be banned from the discord server.
+# Discord Server Rules
+1. Use Common Sense - Write grammatically so that people or staff can understand you, we can not understand some of your words, sentences.
+
+2. Discord TOS! - https://discord.com/terms
+
+3. Be courteous to the staff. - Keep in mind, you should always be polite to everyone, snapping, harsh insults, bullying, humiliation, this is also a violation, all people have problems, but you don't have to snap or anything like that, don't put yourself in the highest place!
+
+4. Do not open a Ticket to any question related to the app unless it is a valid question, Do not ask these questions in the general chat.
+
 5. Don't ask for support in chat, open a Ticket.
-6. Be polite to the staff (it's common sense, but some of you don't think so).
+
+6. Be polite to the staff (it's common sense, but some of you don't think about that).
+
 7. Any insults to staff members in TICKETS are prohibited.
-8. Even if you don't read the rules, you will be penalized. Do not write to customer service.
+
+8. Even if you don't read the rules, you will be penalized, Do not write to customer service.
+
 9. Do not ping employees for useless things.
-10. Do not use alts in any part of our service (this is not limited to: discord accounts and email addresses used)!
+
+10. Do not use alts in any part of our service (this is not limited to: discord accounts and email addresses used)
+
 11. Make your suggestions in the channel, not in the chat room.
-12. Do not post malware/malware/av triggers/crashers.
+
+12. Do not post malware/trojans/av triggers/crashers.
+
 13. Say nasty things about "uids" = 1 warning.
+
 14. Don't sell the app and other crap!
+
 15. Don't sell scripts!
+
 16. Don't have any pay wall or any wall between configurations.
+
 17. We have no pay wall or wall between scripts.
+
 18. Do not use Discord as a marketplace for anything.
+
 19. Do not share accounts.
+
 20. You will both be banned for trading and selling.
+
 21. I would strongly recommend that you read the client before logging in.
+
 22. Even if you did not read the rules, you will be punished lol
+
 23. The staff has the right to punish you even without breaking the rules.
 
 # Membership
